@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Mutadak</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+
 ## About Me 🎓
 
   I'm a passionate web developer focused on expanding my knowledge and skills in the world of technology. My current areas of expertise include Spring Boot, H2 database, MySQL, Java core, data structures and algorithms, Git/GitHub, object-oriented programming, and AWS EC2 .

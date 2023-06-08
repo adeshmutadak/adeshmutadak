@@ -31,7 +31,7 @@ Let's embark on this exciting web development journey together! 😊
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//adesh-mutadak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/adesh-mutadak/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adiiiiiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AdeshMutadak123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/AdeshMutadak123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AdeshMutadak123/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/adeshmutyfbb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/adeshmutyfbb" height="30" width="40" /></a>
 </p>
 
